@@ -5,5 +5,6 @@
 #### BIO
 
   ####  · I’m currently trying to find a job.
-  ####  · I use daily: .js, .css, .html
-  
+  ####  · I use daily: Js, CSS and HTMl.
+  ####  · Learning all about JavaScript.
+  ####  · How to reach me: yago.ayala@outlook.com
