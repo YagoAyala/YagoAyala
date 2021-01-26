@@ -4,6 +4,6 @@
 
 #### BIO
 
-  ###  · I’m currently trying to find a job.
-  ###  · I use daily: .js, .css, .html
+  ####  · I’m currently trying to find a job.
+  ####  · I use daily: .js, .css, .html
   
