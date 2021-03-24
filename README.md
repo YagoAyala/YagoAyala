@@ -4,6 +4,6 @@
 
 #### BIO
 
-  ####  · I use daily: JS, CSS, and HTML
-  ####  · Learning all about JavaScript.
+  ####  · I use daily: JS, VUE.JS, NODE.JS, CSS, and HTML
+  ####  · Learning all about JavaScript and Vue.js.
   ####  · How to reach me: yago.ayala@outlook.com
