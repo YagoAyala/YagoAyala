@@ -7,7 +7,7 @@
   ####  · I use daily: JS, VUE.JS, NODE.JS, CSS, and HTML
   ####  · Learning all about JavaScript and Vue.js. 
   How to reach me: <a h ref="https://www.linkedin.com/in/yagoca/" target="_blank">
-  <img align="center" alt="yago-linkedin" height="30" width = "40" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%"></a>
+  <img align="center" alt="yago-linkedin" height="30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" style="max-width:100%"></a>
   
   
   
