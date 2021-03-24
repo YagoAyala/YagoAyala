@@ -11,4 +11,4 @@
   
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoayala&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoayala&show_icons=true&theme=radical) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yagoayala)](https://github.com/anuraghazra/github-readme-stats)
