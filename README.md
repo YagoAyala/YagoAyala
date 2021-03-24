@@ -6,4 +6,4 @@
 
   ####  · I use daily: JS, VUE.JS, NODE.JS, CSS, and HTML
   ####  · Learning all about JavaScript and Vue.js. 
-  ####  · How to reach me: [Linkedin](linkedin.com/in/yagoca/) | yago.ayala@outlook.com
+  ####  · How to reach me: [linkedin.com/in/yagoca/](Linkedin) | yago.ayala@outlook.com
