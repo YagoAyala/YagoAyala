@@ -9,7 +9,7 @@
   How to reach me: <a h ref="https://www.linkedin.com/in/yagoca/" target="_blank">
   <img align="center" alt="yago-linkedin" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%"></a>
   <a h ref="https://twitter.com/Ayalita00" target="_blank">
-  <img align="center" alt="yago-linkedin" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%"></a>
+  <img align="center" alt="yago-twitter" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%"></a>
   
   
   
