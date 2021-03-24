@@ -9,8 +9,8 @@
   <img align="center" alt="yago-vuejs" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width:100%"></a> <a href="https://nodejs.org/en/">
   <img align="center" alt="yago-nodejs" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%"></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img align="center" alt="yago-css" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%"></a> <a href="https://www.w3schools.com/html/">
-  <img align="center" alt="yago-html" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%"> </a
-  
+  <img align="center" alt="yago-html" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%"> </a>
+
   How to reach me: <a href="https://www.linkedin.com/in/yagoca/">
   <img align="center" alt="yago-linkedin" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%"></a>
   <a href="https://twitter.com/Ayalita00">
