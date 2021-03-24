@@ -12,5 +12,5 @@
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoayala&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala&layout=compact&height="195")](https://github.com/yagoayala/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala)](https://github.com/yagoayala/github-readme-stats)
 
