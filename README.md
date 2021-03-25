@@ -25,6 +25,6 @@
   <img align="center" alt="yago-twitter" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%"></a>
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala&layout=compact)](https://github.com/yagoayala/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala&layout=compact)](https://github.com/yagoayala/)
 
 
