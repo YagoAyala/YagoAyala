@@ -3,10 +3,9 @@
 #### I’m currently studying Software Engineering at Católica de Santa Catarina and I have been trying to improve my skills in the area of programming.
 
 # I'm Yago Ayala
-  · I live in Brazil :brazil:.
-  · I am working on DevHero as backend developer :computer:.
-  
-  · I have been leraning more about JavaScript and Vue.js :books.
+  · I live in Brazil :brazil:
+  · I am working on DevHero as backend developer :computer:
+  · I have been leraning more about JavaScript and Vue.js :books:
 
   ####  · I use daily:
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img align="center" alt="yago-js" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%"></a> <a href="https://vuejs.org/">
