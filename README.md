@@ -4,7 +4,11 @@
 
 # I'm Yago Ayala
   · I live in Brazil :brazil:
+  
+  
   · I am working on DevHero as backend developer :computer:
+  
+  
   · I have been leraning more about JavaScript and Vue.js :books:
 
   ####  · I use daily:
