@@ -2,7 +2,7 @@
 
 #### I’m currently studying Software Engineering at Católica de Santa Catarina and I have been trying to improve my skills in the area of programming.
 
-#I'm Yago Ayala
+# I'm Yago Ayala
   · I live in Brazil. :brazil:
   · I am working on DevHero as backend developer :computer:
   · I have been leraning more about JavaScript and Vue.js :books
