@@ -24,5 +24,4 @@
   <a href="https://twitter.com/Ayalita00">
   <img align="center" alt="yago-twitter" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%"></a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@576c644d-dee0-48ad-86f9-6fe51290838e)](https://github.com/YagoAyala)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yagoayala)](https://github.com/anuraghazra/github-readme-stats)
