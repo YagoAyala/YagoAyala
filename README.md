@@ -6,7 +6,7 @@
   · I live in Brazil :brazil:
   
   
-  · I am working on DevHero as a fullstack developer :computer:
+  · I am working on DevHero as a full stack developer :computer:
   
   
   · I have been learning more about JavaScript and Vue.js :books:
