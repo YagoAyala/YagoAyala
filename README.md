@@ -19,6 +19,8 @@
   <img align="center" alt="yago-linkedin" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%"></a>
   <a href="https://twitter.com/Ayalita00">
   <img align="center" alt="yago-twitter" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%"></a>
+  
+  If you wanna know more about my go take a look at my [Portfolio](https://yago.codes/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala)](https://github.com/YagoAyala)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yagocostaayala)](https://github.com/YagoAyala)
