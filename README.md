@@ -23,7 +23,5 @@
   If you wanna know more about my go take a look at my [Portfolio](https://yago.codes/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala)](https://github.com/YagoAyala)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yagocostaayala)](https://github.com/YagoAyala)
-
 
 
