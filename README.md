@@ -22,7 +22,7 @@
   
   If you wanna know more about my go take a look at my [Portfolio](https://yago.codes/)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala)](https://github.com/YagoAyala)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala&layout=compact)](https://github.com/YagoAyala)
   
    ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
