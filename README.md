@@ -24,7 +24,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoayala&layout=compact)](https://github.com/YagoAyala)
   
-   ## Total de Visitas no perfil :detective: <br>
+   ## Total Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/YagoAyala/count.svg" />
  </p>
