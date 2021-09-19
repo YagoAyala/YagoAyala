@@ -5,7 +5,7 @@
 # I'm Yago Ayala
   · I live in Brazil :brazil:
   
-  · I have been learning more about JavaScript and Vue.js :books:
+  · I have been learning more about Golang and GraphQL :books:
 
   ####  · I use daily:
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img align="center" alt="yago-js" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%"></a> <a href="https://vuejs.org/">
