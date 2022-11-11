@@ -17,8 +17,6 @@
   
   How to reach me: <a href="https://www.linkedin.com/in/yagoca/">
   <img align="center" alt="yago-linkedin" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%"></a>
-  <a href="https://twitter.com/Ayalita00">
-  <img align="center" alt="yago-twitter" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%"></a>
   
   If you wanna know more about me, go take a look at my [Portfolio](https://yagoayala.github.io/reactjs-portfolio/)
   
