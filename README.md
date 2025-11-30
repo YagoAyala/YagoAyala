@@ -8,9 +8,3 @@ I'm a passionate Full Stack Developer with experience in developing high-quality
 ### My [Portfolio](https://portfolio.yago.codes/)
 - **Email**: yago.ayala@outlook.com
 - **LinkedIn**: [linkedin.com/in/yagoca](http://linkedin.com/in/yagoca/)
-
- ## Total Profile Views :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/YagoAyala/count.svg" />
- </p>
-
