@@ -19,7 +19,7 @@ Currently working with **OpenAI**, **LLMs**, and **Hugging Face** models.
 
 **Cloud:** AWS · GCP · Docker · Kubernetes
 
-**AI/ML:** OpenAI API · GPT-4 · Hugging Face · Prompt Engineering
+**AI/ML:** OpenAI API · Hugging Face
 
 **Databases:** PostgreSQL · MySQL · Redis · MongoDB
 
