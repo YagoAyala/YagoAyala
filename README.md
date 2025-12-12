@@ -27,7 +27,7 @@ Currently working with **OpenAI**, **LLMs**, and **Hugging Face** models.
 
 ### Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://portfolio.yago.codes/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://usyago.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/yagoca/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:yago.ayala@outlook.com)
 
