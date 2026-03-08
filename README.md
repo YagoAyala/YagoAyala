@@ -2,7 +2,7 @@
 
 ## Hey, I'm Yago 👋
 
-**AI Software Engineer** · Building production LLM systems serving 30k+ users
+**AI Software Engineer** · Building production LLM systems
 
 Node.js · TypeScript · Next.js · React · AWS · PostgreSQL · OpenAI
 
