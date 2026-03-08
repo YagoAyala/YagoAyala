@@ -2,34 +2,12 @@
 
 ## Hey, I'm Yago 👋
 
-**AI Software Engineer** based in Brazil
+**AI Software Engineer** · Building production LLM systems
 
-I build scalable systems, cloud solutions, and AI-powered features.  
-Currently working with **OpenAI**, **LLMs**, and **Hugging Face** models.
-
-<br>
-
-### What I Work With
-
-**Languages:** Go · TypeScript · Python · JavaScript · PHP · C#
-
-**Frontend:** React · Next.js · Vue.js · React Native
-
-**Backend:** Node.js · Express · GraphQL · Microservices
-
-**Cloud:** AWS · GCP · Docker · Kubernetes
-
-**AI/ML:** OpenAI API · Hugging Face
-
-**Databases:** PostgreSQL · MySQL · Redis · MongoDB
-
-<br>
-
-### Let's Connect
+Node.js · TypeScript · Next.js · React · AWS · PostgreSQL · OpenAI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](https://usyago.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/yagoca/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:yago.ayala@outlook.com)
 
-<br>
 </div>
